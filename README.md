@@ -12,4 +12,7 @@ The [**React-Create-App**](https://github.com/facebook/create-react-app) doesn't
 $ npm install --save-dev typings-for-css-modules-loader node-sass
 ```
 
+## LICENSE
+MIT License
+
 Happy your HACK :)
